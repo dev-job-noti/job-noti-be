@@ -1,0 +1,6 @@
+FROM mysql:8.0
+
+ENV MYSQL_DATABASE=jobnoti
+ENV MYSQL_ROOT_PASSWORD=jobnoti
+EXPOSE 3306
+CMD ["mysqld"]
