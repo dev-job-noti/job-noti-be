@@ -1,2 +1,0 @@
--r base_requirements.txt
-pytest==8.2.2
