@@ -11,7 +11,7 @@ alembic = "^1.8.1"
 SQLAlchemy = {version = "1.4.49", extras = ["mypy"]}
 PyJWT = "^2.4.0"
 uvicorn = "^0.22.0"
-fastapi = "^0.98.0"
+fastapi = "^0.109.1"
 celery = "^5.2.7"
 gunicorn = "^20.1.0"
 fastapi-event = "^0.1.3"
