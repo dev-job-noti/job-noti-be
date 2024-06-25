@@ -1,9 +1,0 @@
-alembic
-fastapi
-uvicorn[standard]
-celery
-redis
-bcrypt
-pyjwt
-sqlalchemy
-aiomysql
